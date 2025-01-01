@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Microsoft.Windows.CppWinRT.2.0.220531.1\build\native\Microsoft.Windows.CppWinRT.props" Condition="Exists('packages\Microsoft.Windows.CppWinRT.2.0.220531.1\build\native\Microsoft.Windows.CppWinRT.props')" />
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{c8d46486-40de-4eac-8e9d-b63d9324d0c2}</ProjectGuid>
+    <RootNamespace>Scope</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>MinecraftRemakeCpp</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>OGL3D/include/;OGL3D/source/;OGL3D/vendor/glad/include/;OGL3D/SimplexNoise/src/;OGL3D/;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opengl32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="OGL3D\SimplexNoise\src\SimplexNoise.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Game\OGame.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Minecraft\Chunk.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OGraphicsEngine.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Minecraft\World.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\Win32\CWin32GraphicsEngine.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Stb\stb_image.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Time\OTime.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Window\OWindow.cpp" />
+    <ClCompile Include="main\main.cpp" />
+    <ClCompile Include="OGL3D\vendor\glad\src\glad.c" />
+    <ClCompile Include="OGL3D\vendor\glad\src\glad_wgl.c" />
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OVertexArrayObject.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OShaderProgram.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\InputSystem\OInputSystem.cpp" />
+    <ClCompile Include="OGL3D\source\OGL3D\Minecraft\Player.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OGL3D\include\OGL3D\Game\OGame.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\InputSystem\OInputListener.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Math\ONoise.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OPoint.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\BiomeAttributes.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\BlockType.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\Chunk.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OGraphicsEngine.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\World.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OMat4.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Math\ORect.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OVec2.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OVec3.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\WorldData.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\OPrerequisites.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Stb\stb_image.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Window\OWindow.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OVec4.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OVertexArrayObject.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OShaderProgram.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OUniformBuffer.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\InputSystem\OInputSystem.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Time\OTime.h" />
+    <ClInclude Include="OGL3D\SimplexNoise\src\SimplexNoise.h" />
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\Player.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Shaders\BasicShader.frag" />
+    <None Include="Assets\Shaders\BasicShader.vert" />
+    <None Include="Assets\Shaders\LightShader.frag" />
+    <None Include="Assets\Shaders\LightShader.vert" />
+    <None Include="Assets\Shaders\ShaderGUI.frag" />
+    <None Include="Assets\Shaders\ShaderGUI.vert" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\..\Downloads\CrosshairWhite.png" />
+    <Image Include="Assets\Textures\Blocks.png" />
+    <Image Include="Assets\Textures\BlocksNormal.jpg" />
+    <Image Include="Assets\Textures\BlocksNormal2.jpg" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+    <Import Project="packages\Microsoft.Windows.CppWinRT.2.0.220531.1\build\native\Microsoft.Windows.CppWinRT.targets" Condition="Exists('packages\Microsoft.Windows.CppWinRT.2.0.220531.1\build\native\Microsoft.Windows.CppWinRT.targets')" />
+  </ImportGroup>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.Windows.CppWinRT.2.0.220531.1\build\native\Microsoft.Windows.CppWinRT.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Windows.CppWinRT.2.0.220531.1\build\native\Microsoft.Windows.CppWinRT.props'))" />
+    <Error Condition="!Exists('packages\Microsoft.Windows.CppWinRT.2.0.220531.1\build\native\Microsoft.Windows.CppWinRT.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Windows.CppWinRT.2.0.220531.1\build\native\Microsoft.Windows.CppWinRT.targets'))" />
+  </Target>
+</Project>

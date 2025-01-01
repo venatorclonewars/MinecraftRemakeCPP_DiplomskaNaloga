@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Minecraft\World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Window\OWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OGraphicsEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\vendor\glad\src\glad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\vendor\glad\src\glad_wgl.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\Win32\CWin32GraphicsEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OVertexArrayObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OShaderProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Minecraft\Chunk.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\InputSystem\OInputSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Game\OGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\SimplexNoise\src\SimplexNoise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Stb\stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Minecraft\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OGL3D\source\OGL3D\Time\OTime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Window\OWindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OGraphicsEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OVec4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\OPrerequisites.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Math\ORect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OVertexArrayObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OShaderProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Graphics\OUniformBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OMat4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OVec3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OVec2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\Chunk.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\WorldData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\InputSystem\OInputSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\InputSystem\OInputListener.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Game\OGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Math\OPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\BlockType.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\SimplexNoise\src\SimplexNoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Math\ONoise.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Stb\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\BiomeAttributes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Minecraft\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OGL3D\include\OGL3D\Time\OTime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Assets\Shaders\BasicShader.vert" />
+    <None Include="Assets\Shaders\LightShader.vert" />
+    <None Include="Assets\Shaders\LightShader.frag" />
+    <None Include="Assets\Shaders\BasicShader.frag" />
+    <None Include="Assets\Shaders\ShaderGUI.vert" />
+    <None Include="Assets\Shaders\ShaderGUI.frag" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Assets\Textures\Blocks.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Textures\BlocksNormal.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\Textures\BlocksNormal2.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\..\Downloads\CrosshairWhite.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

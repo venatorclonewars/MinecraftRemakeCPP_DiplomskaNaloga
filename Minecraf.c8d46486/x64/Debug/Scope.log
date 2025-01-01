@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Minecraf.c8d46486\x64\Debug\) contains files shared from another project (MinecraftCloneCpp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OUniformBuffer.cpp
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\include\OGL3D\Math\OMat4.h(105,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\include\OGL3D\Math\OMat4.h(106,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp(62,12): warning C4101: 'textureID': unreferenced local variable
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp(203,28): warning C4101: 'quadEBO': unreferenced local variable
+  Scope.vcxproj -> C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\x64\Debug\MinecraftRemakeCpp.exe
