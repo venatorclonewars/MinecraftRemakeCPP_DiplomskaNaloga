@@ -4,3 +4,6 @@ C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftCloneCpp\Minec
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\Minecraf.c8d46486\x64\Debug\Scope.vcxproj.MdMergeInputs.cache
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\Minecraf.c8d46486\x64\Debug\Scope.vcxproj.cppwinrt_plat.cache
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\Minecraf.c8d46486\x64\Debug\Scope.vcxproj.cppwinrt_comp.cache
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\Minecraf.c8d46486\x64\Debug\Scope.vcxproj.MdMergeInputs.cache
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\Minecraf.c8d46486\x64\Debug\Scope.vcxproj.cppwinrt_plat.cache
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\Minecraf.c8d46486\x64\Debug\Scope.vcxproj.cppwinrt_comp.cache

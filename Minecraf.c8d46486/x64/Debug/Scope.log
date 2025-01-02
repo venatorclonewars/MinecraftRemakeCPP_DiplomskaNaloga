@@ -1,17 +1,196 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Minecraf.c8d46486\x64\Debug\) contains files shared from another project (MinecraftCloneCpp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  OGame.cpp
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Game/OGame.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(105,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Game/OGame.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(106,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Game/OGame.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Game/OGame.cpp')
+  
+  OGraphicsEngine.cpp
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/OGraphicsEngine.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(105,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/OGraphicsEngine.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(106,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/OGraphicsEngine.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/OGraphicsEngine.cpp')
+  
   OUniformBuffer.cpp
-C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
   (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
   
-C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\include\OGL3D\Math\OMat4.h(105,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(105,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
   (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
   
-C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\include\OGL3D\Math\OMat4.h(106,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(106,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
   (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
   
-C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
   (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
   
-C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp(62,12): warning C4101: 'textureID': unreferenced local variable
-C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp(203,28): warning C4101: 'quadEBO': unreferenced local variable
-  Scope.vcxproj -> C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCpp\x64\Debug\MinecraftRemakeCpp.exe
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp(62,12): warning C4101: 'textureID': unreferenced local variable
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp(203,28): warning C4101: 'quadEBO': unreferenced local variable
+  OVertexArrayObject.cpp
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Graphics\OVertexArrayObject.cpp(25,4): warning C4312: 'type cast': conversion from 'ui32' to 'void *' of greater size
+  Chunk.cpp
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/Chunk.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(105,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/Chunk.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(106,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/Chunk.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/Chunk.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(40,55): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(40,52): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(40,49): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(71,32): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(71,29): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(71,26): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(110,38): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(110,35): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(110,32): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(136,38): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(136,35): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(136,32): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(149,10): warning C4244: 'initializing': conversion from 'ui32' to 'float', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(150,10): warning C4244: 'initializing': conversion from 'ui32' to 'float', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Chunk.cpp(278,82): warning C4267: 'argument': conversion from 'size_t' to 'ui32', possible loss of data
+  Player.cpp
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/Player.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(105,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/Player.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(106,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/Player.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/Player.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(60,61): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(60,49): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(60,37): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(67,51): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(67,39): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(67,27): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(150,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(151,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(268,93): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(268,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(292,84): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(292,63): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(292,42): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(294,102): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(294,81): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(294,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(295,102): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(295,81): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(295,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(297,72): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(297,63): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(297,42): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(298,72): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(298,63): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(298,42): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(300,90): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(300,81): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(300,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(301,90): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(301,81): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(301,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(303,90): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(303,81): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(303,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(304,90): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(304,81): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(304,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(307,90): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(307,51): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(307,42): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(309,108): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(309,69): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(309,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(310,108): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(310,69): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(310,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(312,78): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(312,51): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(312,42): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(313,78): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(313,51): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(313,42): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(315,96): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(315,69): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(315,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(316,96): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(316,69): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(316,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(317,96): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(317,69): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(317,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(318,96): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(318,69): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\Player.cpp(318,30): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+  World.cpp
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/World.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(105,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/World.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(106,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/World.cpp')
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/World.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'OGL3D/source/OGL3D/Minecraft/World.cpp')
+      C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\vendor\glad\include\glad\glad.h(646,9):
+      see previous definition of 'APIENTRY'
+  
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(127,79): warning C4244: 'argument': conversion from 'ui32' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(127,59): warning C4244: 'argument': conversion from 'ui32' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(135,8): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(136,8): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(137,8): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(139,58): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(139,55): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(139,52): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(180,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(215,13): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(216,13): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(218,33): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(218,22): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(220,13): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(221,11): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(222,13): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(223,11): warning C4244: 'initializing': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(230,35): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(230,29): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(238,80): warning C4244: 'argument': conversion from 'ui32' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(238,60): warning C4244: 'argument': conversion from 'ui32' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(241,26): warning C4244: '=': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(242,26): warning C4244: '=': conversion from 'f32' to 'int', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(287,35): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(287,29): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(311,35): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(311,29): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+  Generating Code...
+  Scope.vcxproj -> C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\x64\Debug\MinecraftRemakeCpp.exe
