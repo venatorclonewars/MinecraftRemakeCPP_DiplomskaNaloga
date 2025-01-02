@@ -25,6 +25,7 @@ C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_Dipl
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(107,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
   (compiling source file 'OGL3D/source/OGL3D/Graphics/OGraphicsEngine.cpp')
   
+  OShaderProgram.cpp
   OUniformBuffer.cpp
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
   (compiling source file 'OGL3D/source/OGL3D/Graphics/OUniformBuffer.cpp')
@@ -42,6 +43,13 @@ C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_Dipl
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Graphics\OUniformBuffer.cpp(203,28): warning C4101: 'quadEBO': unreferenced local variable
   OVertexArrayObject.cpp
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Graphics\OVertexArrayObject.cpp(25,4): warning C4312: 'type cast': conversion from 'ui32' to 'void *' of greater size
+  CWin32GraphicsEngine.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'OGL3D/source/OGL3D/Graphics/Win32/CWin32GraphicsEngine.cpp')
+      C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\vendor\glad\include\glad\glad.h(646,9):
+      see previous definition of 'APIENTRY'
+  
+  OInputSystem.cpp
   Chunk.cpp
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\include\OGL3D\Math\OMat4.h(104,40): warning C4244: '=': conversion from 'double' to 'f32', possible loss of data
   (compiling source file 'OGL3D/source/OGL3D/Minecraft/Chunk.cpp')
@@ -192,5 +200,7 @@ C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_Dipl
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(287,29): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(311,35): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
 C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\OGL3D\source\OGL3D\Minecraft\World.cpp(311,29): warning C4244: 'argument': conversion from 'int' to 'f32', possible loss of data
+  OTime.cpp
+  OWindow.cpp
   Generating Code...
   Scope.vcxproj -> C:\Users\simon\OneDrive\Documents\GitHubLocal\GameEngine\MinecraftRemakeCPP_DiplomskaNaloga\x64\Debug\MinecraftRemakeCpp.exe

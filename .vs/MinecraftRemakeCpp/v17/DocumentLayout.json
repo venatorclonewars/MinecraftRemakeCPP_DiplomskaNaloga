@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\Minecraft\\WorldData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|solutionrelative:OGL3D\\include\\OGL3D\\Minecraft\\WorldData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\Chunk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|solutionrelative:OGL3D\\source\\OGL3D\\Minecraft\\Chunk.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\Minecraft\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|solutionrelative:OGL3D\\include\\OGL3D\\Minecraft\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|solutionrelative:OGL3D\\source\\OGL3D\\Minecraft\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|solutionrelative:OGL3D\\source\\OGL3D\\Minecraft\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\Minecraft\\WorldData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|solutionrelative:OGL3D\\include\\OGL3D\\Minecraft\\WorldData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\OPrerequisites.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|solutionrelative:OGL3D\\include\\OGL3D\\OPrerequisites.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|solutionrelative:OGL3D\\source\\OGL3D\\Minecraft\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8D46486-40DE-4EAC-8E9D-B63D9324D0C2}|Scope.vcxproj|C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\Assets\\Shaders\\BasicShader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,64 +46,94 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chunk.cpp",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\Chunk.cpp",
+              "RelativeDocumentMoniker": "OGL3D\\source\\OGL3D\\Minecraft\\Chunk.cpp",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\Chunk.cpp",
+              "RelativeToolTip": "OGL3D\\source\\OGL3D\\Minecraft\\Chunk.cpp",
+              "ViewState": "AgIAAMYAAAAAAAAAAAApwNIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-02T14:25:02.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\Minecraft\\Player.h",
+              "RelativeDocumentMoniker": "OGL3D\\include\\OGL3D\\Minecraft\\Player.h",
+              "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\Minecraft\\Player.h",
+              "RelativeToolTip": "OGL3D\\include\\OGL3D\\Minecraft\\Player.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAApwEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-02T14:22:30.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\Player.cpp",
               "RelativeDocumentMoniker": "OGL3D\\source\\OGL3D\\Minecraft\\Player.cpp",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\Player.cpp",
               "RelativeToolTip": "OGL3D\\source\\OGL3D\\Minecraft\\Player.cpp",
-              "ViewState": "AgIAAG4AAAAAAAAAAAApwIIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-01T19:23:07.573Z"
+              "WhenOpened": "2025-01-01T19:23:07.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "WorldData.h",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\Minecraft\\WorldData.h",
               "RelativeDocumentMoniker": "OGL3D\\include\\OGL3D\\Minecraft\\WorldData.h",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\Minecraft\\WorldData.h",
               "RelativeToolTip": "OGL3D\\include\\OGL3D\\Minecraft\\WorldData.h",
-              "ViewState": "AgIAAAUAAAAAAAAAAAApwBQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-01T19:22:49.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "OPrerequisites.h",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\OPrerequisites.h",
               "RelativeDocumentMoniker": "OGL3D\\include\\OGL3D\\OPrerequisites.h",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\include\\OGL3D\\OPrerequisites.h",
               "RelativeToolTip": "OGL3D\\include\\OGL3D\\OPrerequisites.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-01T19:22:06.771Z"
+              "WhenOpened": "2025-01-01T19:22:06.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "World.cpp",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\World.cpp",
               "RelativeDocumentMoniker": "OGL3D\\source\\OGL3D\\Minecraft\\World.cpp",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\OGL3D\\source\\OGL3D\\Minecraft\\World.cpp",
               "RelativeToolTip": "OGL3D\\source\\OGL3D\\Minecraft\\World.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAgwAwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-01T19:21:52.07Z"
+              "WhenOpened": "2025-01-01T19:21:52.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "BasicShader.frag",
               "DocumentMoniker": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\Assets\\Shaders\\BasicShader.frag",
               "RelativeDocumentMoniker": "Assets\\Shaders\\BasicShader.frag",
               "ToolTip": "C:\\Users\\simon\\OneDrive\\Documents\\GitHubLocal\\GameEngine\\MinecraftRemakeCPP_DiplomskaNaloga\\Assets\\Shaders\\BasicShader.frag",
               "RelativeToolTip": "Assets\\Shaders\\BasicShader.frag",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-01T19:13:51.375Z"
+              "WhenOpened": "2025-01-01T19:13:51.375Z",
+              "EditorCaption": ""
             }
           ]
         },
